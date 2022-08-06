@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh Kumar Mallik
-- 👀 I’m interested in ...Pyhton,Data Science,Machine learning
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Embedded software develope, 
+- 🌱 C, C++, Python, STM32, ARM, BMS, Power Converters 
 - 📫 How to reach me ...
 
 <!---
